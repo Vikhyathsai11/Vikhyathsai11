@@ -105,3 +105,9 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyathsai11&" alt="vikhyathsai11" /></p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vikhyathsai11/vikhyathsai11/output/github-contribution-grid-snake.svg">
+
+</p>

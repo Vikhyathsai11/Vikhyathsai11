@@ -1,291 +1,107 @@
-<h1 align="center">
-Hi 👋 I'm Vikhyath Gupta
-</h1>
+<h1 align="center">Hi 👋, I'm Vikhyath</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Building Intelligent Systems</h3>
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Building Intelligent Systems
-</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyathsai11&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyathsai11" /> </p>
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;LLM+Developer;Building+AI+Agents;Always+Learning+New+Technologies" />
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vikhyathsai11&label=Visitors&color=blue&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/vikhyathsai11?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/vikhyathsai11?style=social"/>
-
+  <img src="https://komarev.com/ghpvc/?username=vikhyathsai11&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyathsai11" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 About Me
+- 🎓 Master's student in **AI for Industrial Applications (Germany)**
+- 💡 Passionate about **AI Agents, LLMs, and Full Stack Development**
+- ⚡ Building real-world AI systems (chatbots, automation, monitoring tools)
+- 🌍 Currently in Germany, exploring tech & opportunities
 
-🎓 Master's in **Artificial Intelligence for Industrial Applications** (Germany)
-
-💡 Passionate about
-
-- Artificial Intelligence
-- Large Language Models
-- AI Agents
-- Machine Learning
-- Full Stack Development
-- Distributed Systems
-
-🚀 I enjoy building intelligent products that solve real-world problems.
-
-Currently working on
-
-- 🤖 AI Voice Interview Agents
-- 🧠 LLM Applications
-- 🌐 Full Stack AI Platforms
-- 📊 Real-time Monitoring Systems
-- ⚡ Autonomous AI Workflows
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikhyathsai11" alt="vikhyathsai11" /></a> </p>
 ---
 
-# 🌍 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 <p align="left">
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://linkedin.com/in/vikhyath gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikhyath gupta" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vikhyath11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikhyath11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vikhyathsai11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikhyathsai11" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vikhyath11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vikhyath11" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vikhyatf32v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikhyatf32v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikhyath-gupta" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://linkedin.com/in/vikhyath-gupta">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.codechef.com/users/vikhyath11" target="blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.hackerrank.com/vikhyathsai11" target="blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-<a href="https://codeforces.com/profile/vikhyath11">
-<img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces"/>
+<a href="https://codeforces.com/profile/vikhyath11" target="blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-
-<a href="https://www.hackerrank.com/vikhyathsai11">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+<a href="https://auth.geeksforgeeks.org/user/vikhyatf32v" target="blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
-<a href="https://www.codechef.com/users/vikhyath11">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-## Languages
-
+### 💻 Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,php" />
 </p>
 
----
-
-## Frontend
-
+### 🌐 Frontend
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap" />
 </p>
 
----
-
-## Backend
-
+### 🧠 Backend & Databases
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django,mongodb,mysql,firebase" />
 </p>
 
----
-
-## Databases
-
+### ☁️ Tools & Platforms
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=git,linux,gcp,figma,arduino" />
 </p>
 
 ---
 
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-**Also experienced with**
-
-- OpenAI
-- Gemini
-- Ollama
-- LangChain
-- CrewAI
-- Hugging Face
-- FAISS
-- ChromaDB
-- LoRA Fine-tuning
-- Transformers
-- RAG
-- Vector Databases
-
----
-
-## DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp,aws"/>
-
-</p>
-
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikhyathsai11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyathsai11&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vikhyathsai11&show_icons=true&theme=tokyonight" />
 </p>
-
----
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vikhyathsai11&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyathsai11&theme=tokyonight" />
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyathsai11&theme=tokyo-night"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyathsai11&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
+## 🏆 Achievements
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikhyathsai11&theme=radical&column=7&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vikhyathsai11&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 ---
 
-# 🚀 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikhyathsai11&show_icons=true&locale=en&layout=compact" alt="vikhyathsai11" /></p>
+## 🚀 What I'm Currently Working On
+- 🤖 AI Interview Bots (Voice-based)
+- 📊 Real-time Social Media Monitoring Systems
+- 🧠 LLM-based Automation Tools
+- 🌐 Full Stack AI Applications
 
-### 🤖 AI Interview Bot
-
-Voice-based AI interviewer using
-
-- Gemini
-- Twilio
-- Firebase
-- Speech-to-Text
-- Text-to-Speech
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyathsai11&show_icons=true&locale=en" alt="vikhyathsai11" /></p>
 ---
 
-### 📊 Social Media Monitoring
-
-Real-time monitoring platform for
-
-- YouTube
-- Facebook
-- Trending News
-- AI Content Analysis
-
----
-
-### 🧠 Multi-Agent AI Platform
-
-AI Agents that
-
-- Plan
-- Retrieve Knowledge
-- Validate Results
-- Collaborate
-
----
-
-### 🌐 AI Template Generator
-
-LLM-powered HTML/PDF generation platform with editable templates.
-
----
-
-# 💼 Experience
-
-✔ AI Development
-
-✔ Full Stack Development
-
-✔ REST APIs
-
-✔ Cloud Deployment
-
-✔ Prompt Engineering
-
-✔ LLM Fine-tuning
-
-✔ AI Agents
-
-✔ RAG Applications
-
-✔ Workflow Automation
-
----
-
-# 🌱 Currently Learning
-
-- Multi-Agent Systems
-
-- MCP
-
-- Kubernetes
-
-- Rust
-
-- Distributed AI Systems
-
-- Agentic AI
-
----
-
-# ⚡ Fun Fact
-
-> I love building software that can **think, talk, reason, automate tasks, and make life easier through AI.**
-
----
-
-<p align="center">
-
-⭐️ If you like my work, consider giving a star to my repositories!
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyathsai11&" alt="vikhyathsai11" /></p>

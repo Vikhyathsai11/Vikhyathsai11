@@ -177,13 +177,7 @@ class VikhyathGupta:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikhyathsai11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
 
 <div align="center">
 
